@@ -1,0 +1,2 @@
+# zoneinfo needs the IANA database on Windows; other runtime modules use stdlib.
+tzdata; sys_platform == "win32"
