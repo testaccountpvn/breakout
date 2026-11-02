@@ -1,4 +1,10 @@
-# Breakout OS prototype
+# Historical prototype notes
+
+> These notes describe the first UI slice and are retained as implementation
+> history. They are superseded by the [current project documentation](../../docs/README.md),
+> especially [implemented behavior and known gaps](../../docs/IMPLEMENTATION_STATUS.md).
+> Example screens, performance figures, readiness labels, and broker states in
+> the original prototype must not be treated as verified current behavior.
 
 This is the first implementation slice of the supplied Automated Intraday Breakout Trading Platform plan. It is a dependency-free browser prototype that implements the shared visual system from the plan's 13 mock screens and provides navigable screens for the operating workflow.
 

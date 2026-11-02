@@ -4,6 +4,18 @@ Local Python/SQLite application for capturing Groww price samples, monitoring
 one-minute candles, and evaluating an intraday opening-range breakout strategy
 in paper mode. The browser interface is served by the Python backend.
 
+## Project documentation
+
+- [Documentation index](docs/README.md)
+- [Overall project plan and agreed scope](docs/PROJECT_PLAN.md)
+- [Implemented features and known gaps](docs/IMPLEMENTATION_STATUS.md)
+- [Architecture, modules, data, and API](docs/ARCHITECTURE.md)
+- [Daily operation and troubleshooting](docs/OPERATIONS.md)
+- [Validation plan and remaining roadmap](docs/VALIDATION_AND_ROADMAP.md)
+
+The implementation status is the source of truth for completion. The project
+plan describes the target product, including work that has not been delivered.
+
 ## Run locally
 
 Requires Python 3.10 or newer. From the repository root:
